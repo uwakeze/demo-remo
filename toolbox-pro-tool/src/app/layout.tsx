@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   verification: {
     // Correct: Only the code, not the full meta tag
-    google: "8JjDao-XULuWNyQ_Mac1p4_1MIX8TWYfB-G8EueCsO8",
+    google: "V-kbajY2PI9NSC-7RrEjNCyyQpaVCZCCTkl1VDIZq6s",
   },
 };
 
@@ -50,13 +50,13 @@ export default function RootLayout({
         {/* Google Search Console */}
         <meta
           name="google-site-verification"
-          content="8JjDao-XULuWNyQ_Mac1p4_1MIX8TWYfB-G8EueCsO8"
+          content="V-kbajY2PI9NSC-7RrEjNCyyQpaVCZCCTkl1VDIZq6s"
         />
 
         {/* Google Analytics (replace with your real GA4 ID) */}
         <script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=G-7HXR3PVB65"
+          src="https://www.googletagmanager.com/gtag/js?id=G-DNGXT1R6YW"
         ></script>
         <script
           dangerouslySetInnerHTML={{
@@ -64,7 +64,7 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-7HXR3PVB65');
+              gtag('config', 'G-DNGXT1R6YW');
             `,
           }}
         />
