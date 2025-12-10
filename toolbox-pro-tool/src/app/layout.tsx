@@ -8,30 +8,30 @@ import { Footer } from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ToolBox Pro - Free Digital Tools for Content Creators",
+  title: "tvetcollege.co.za - SA Update Portal",
   description:
-    "Your ultimate collection of free digital tools including keyword suggestion and word count calculator",
+    "Your SA Updates Portal",
   keywords:
-    "digital tools, content creation, keyword suggestion, word count, online tools",
+    "Educational News, Scholarships News, Jobs and other updates",
   robots: "index, follow",
-  authors: [{ name: "ToolBox Pro" }],
-  creator: "ToolBox Pro",
-  publisher: "ToolBox Pro",
+  authors: [{ name: "Admin" }],
+  creator: "Admin",
+  publisher: "Admin",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://toolboxpro.com",
-    siteName: "ToolBox Pro",
+    url: "https://tvetcollege.co.za",
+    siteName: "tvetcollege.co.za",
     description:
-      "Your ultimate collection of free digital tools including keyword suggestion and word count calculator",
-    title: "ToolBox Pro - Free Digital Tools for Content Creators",
+      "Your SA Updates Portal",
+    title: "tvetcollege.co.za - SA Update portal",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ToolBox Pro - Free Digital Tools for Content Creators",
+    title: "tvetcollege.co.za - Your SA Updates Portal",
     description:
-      "Your ultimate collection of free digital tools including keyword suggestion and word count calculator",
-    creator: "@toolboxpro",
+      "Your SA Updates Portal",
+    creator: "@tvetcollege.co.za",
   },
   verification: {
     // Correct: Only the code, not the full meta tag
