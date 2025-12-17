@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
 						use, and protect your information.
 					</p>
 					<p className='text-sm text-gray-500 mt-4'>
-						Last updated: January 2024
+						Last updated: May 2025
 					</p>
 				</div>
 
